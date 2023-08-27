@@ -1,6 +1,7 @@
 # Tesla-UI-clone
 
-![Tesla UI Clone](screenshot.png)
+![Tesla UI Clone](https://github.com/Vignesh-Jothi/Tesla-UI-clone/assets/87015660/515b281d-14ae-4e9d-85f9-4f5da7ddc0d1)
+
 
 I created a clone of the Tesla Home page UI using Tailwind CSS. This project demonstrates the implementation of a modern and responsive user interface inspired by the Tesla website. It's a great way to learn about front-end development, particularly with the Tailwind CSS framework.
 
