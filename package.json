@@ -1,0 +1,14 @@
+{
+  "name": "tesla-ui-clone",
+  "version": "1.0.0",
+  "description": "![Tesla UI Clone](https://github.com/Vignesh-Jothi/Tesla-UI-clone/assets/87015660/515b281d-14ae-4e9d-85f9-4f5da7ddc0d1)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "postcss src/input.css -o build/css/output.css",
+    "watch": "postcss src/input.css -o build/css/output.css --watch"
+  }
+  ,
+  "keywords": [],
+  "author": "Vignesh Jothi",
+  "license": "MIT"
+}
